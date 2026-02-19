@@ -25,7 +25,7 @@ No backend or dynamic functionality is implemented — this is purely a design p
 The prototype demonstrates simple clickable navigation and sample flows:
 
 - Click each module to open its page
-- Marketplace: **Rent** and **Purchase** buttons are clickable
+- Marketplace: **Rentals** and **Purchase** buttons are clickable
 - Firms and Professionals: only the first listed item is clickable (for demonstration purposes)
 - Back and Home icons on all pages are clickable for navigation
 
