@@ -32,12 +32,15 @@ The prototype demonstrates simple clickable navigation and sample flows:
 ---
 
 ## Design Source (Figma)
-
+View website:
+```
+https://www.figma.com/proto/WJoDGFCff3xOPyAxMNwkY4/AEC-Website-Simple-Prototype?node-id=2-2&starting-point-node-id=2%3A2&t=Nyfndf7bbh4Dpkoa-1
+```
 View or duplicate the original prototype here:
 ```
 https://www.figma.com/design/WJoDGFCff3xOPyAxMNwkY4/AEC-Website-Simple-Prototype?node-id=0-1&m=dev&t=ZDuqsjTAaNu3IgeK-1
 ```
-You can explore the structure in Dev Mode or duplicate the file for your own edits.
+* You can explore the structure in Dev Mode or duplicate the file for your own edits.
 
 ---
 
